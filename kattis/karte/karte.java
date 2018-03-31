@@ -1,3 +1,4 @@
+//Link to Question: https://open.kattis.com/problems/karte
 import java.util.*;
 public class karte {
     public static int Pnum = 0, Knum = 0, Hnum = 0, Tnum = 0;

@@ -21,6 +21,7 @@
 *Output
 *Output the quadrant number (1, 2, 3 or 4) for the point (x,y).
 */
+//Link To Question: https://open.kattis.com/problems/quadrant
 import java.util.Scanner;
 public class quadrant {
     public static void main (String[] args){
