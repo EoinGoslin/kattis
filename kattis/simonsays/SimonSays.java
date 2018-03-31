@@ -1,3 +1,4 @@
+//link to Question: https://open.kattis.com/problems/simonsays
 import java.util.Scanner;
 
 /**
