@@ -1,3 +1,4 @@
+//Link to Question: https://open.kattis.com/problems/bing
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.InputStreamReader;
