@@ -1,3 +1,4 @@
+//Link to Question: https://open.kattis.com/problems/r2
 import java.util.Scanner;
 public class r2 {
     public static void main(String[] args){
